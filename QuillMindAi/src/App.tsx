@@ -441,7 +441,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-white text-gray-600 py-8 border-t border-gray-200">
         <div className="max-w-6xl mx-auto px-4 text-center">
-          <p>&copy; 2024 QuillMind AI by Prince Kumar. All rights reserved.</p>
+          <p>&copy; 2026 QuillMind AI by Prince Kumar. All rights reserved.</p>
         </div>
       </footer>
     </div>
