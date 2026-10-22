@@ -78,5 +78,5 @@ This project reflects my core skills in:
 - Designing responsive UI interfaces
 
 🔗 [LinkedIn](https://www.linkedin.com/in/prince-kumar-0bb885275/)  
-🌐 [Live Site](https://quill-mind-ai.vercel.app/)  
-📁 [GitHub Repo](https://github.com/Satyamchaubey1234/QuillMindAi)
+🌐 [Live Site](https://quillmindai-qi3a21kf3-jaatke-chore.vercel.app/)  
+
